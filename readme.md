@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mehul Gondaliya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<h3>👋 Hello, I'm a developer passionate about HTML, CSS, and JavaScript!
-💻 Proficient in HTML for structuring web content, CSS for styling and layout.
-⚙️ Currently, I specialize in jQuery, Bootstrap, and responsive design.
-🚀 I'm also on a continuous learning journey, diving into React.js and mastering Tailwind CSS.
-📆 Always eager to stay up-to-date with the latest web development trends and technologies.</h3>
+<p>👋 Hello, I'm a developer passionate about HTML, CSS, and JavaScript! <br />
+💻 Proficient in HTML for structuring web content, CSS for styling and layout. <br />
+⚙️ Currently, I specialize in jQuery, Bootstrap, and responsive design. <br />
+🚀 I'm also on a continuous learning journey, diving into React.js and mastering Tailwind CSS. <br />
+📆 Always eager to stay up-to-date with the latest web development trends and technologies.</p>
 
 <img align="right" alt="coding" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47xyyewtj196rpjoaautx97fmc94lc58n02f4hwh66&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400">
 
